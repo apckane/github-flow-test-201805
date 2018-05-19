@@ -9,4 +9,4 @@ a
 EOS
 )
 
-echo $LIST |sort
+echo "$LIST" |sort
