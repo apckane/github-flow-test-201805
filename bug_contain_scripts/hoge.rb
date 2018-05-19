@@ -5,7 +5,8 @@ scores.split(' ').each do |score|
   total += score.to_i
 end
 
-ave = total / 7
+#ave = total / 7
+ave = total / scores.split(' ').count
 if ave >= clear
   puts 'pass'
 else
