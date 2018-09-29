@@ -1,4 +1,4 @@
-i#!/bin/bash
+#!/bin/bash
 #計算結果を出力させたい
 
 num1=5
