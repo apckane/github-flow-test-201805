@@ -1,6 +1,9 @@
 #!/bin/bash
 #計算結果を出力させたい
 
-c=`expr 5 * 3`
+num1=5
+num2=3
 
-echo $c
+mul=`expr $x * $y`
+
+echo "num1*num2=$mul"
