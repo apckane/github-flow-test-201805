@@ -4,5 +4,5 @@
 
 x = 'Git'
 y = ' Training'
-print(x + z)
+print(x + y)
 
