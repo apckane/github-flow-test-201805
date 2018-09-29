@@ -3,4 +3,4 @@
 # 文字数(4)を返したい
 x = ("aaaa")
 
-print(x)
+print(len(x))
