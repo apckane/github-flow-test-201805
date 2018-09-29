@@ -4,6 +4,6 @@
 num1=5
 num2=3
 
-mul=`expr $x * $y`
+mul=`expr $num1 * $num2`
 
 echo "num1*num2=$mul"
