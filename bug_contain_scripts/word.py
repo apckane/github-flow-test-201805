@@ -3,5 +3,5 @@
 #Testと表示させたい
 
 word = "ttTestttt"
-word2 = word[2:5]
+word2 = word[2:6]
 print(word2)
